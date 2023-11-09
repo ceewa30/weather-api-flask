@@ -50,3 +50,9 @@ df.plot(x='    DATE', y="TG", figsize=(15, 3))
 
 df[100, 1000].plot(x='    DATE', y="TG", figsize=(15, 3))
 
+
+# Insight Needs
+# Data Acquisition
+# Data Analysis
+# Data Visualization
+
